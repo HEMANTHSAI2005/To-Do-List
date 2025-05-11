@@ -7,7 +7,7 @@ const clearAllBtn = document.getElementById('clear-all');
 window.addEventListener('load', loadTasks);
 
 // Add task
-addTaskBtn.addEventListener('click', addTask);
+addTaskBtn.addEventListener('click', addTask);                 
                         
 // Remove task or mark as completed
 taskList.addEventListener('click', handleTaskClick);
