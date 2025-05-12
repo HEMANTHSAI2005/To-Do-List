@@ -1,6 +1,6 @@
 const taskInput = document.getElementById('task-input');
 const addTaskBtn = document.getElementById('add-task');
-const taskList = document.getElementById('task-list');
+const taskList = document.getElementById('task-list');                        
 const clearAllBtn = document.getElementById('clear-all');
 
 // Load tasks from localStorage on page load
